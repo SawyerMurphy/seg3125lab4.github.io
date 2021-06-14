@@ -5,27 +5,60 @@
 }
 
 h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
     text-align: center ;
 }
 
 .intro-message {
     font-size: small ;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
     margin-left: 10px ;
     margin-right: 10px ;
 }
 
 h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-left: 10px ;
 }
 
 .contact-us-body {
+    font-family: 'Times New Roman', Times, serif ;
     margin-left: 10px ;
 }
 
 .footer {
+    font-family: 'Times New Roman', Times, serif ;
     position: static ;
     left: 0 ;
     bottom: 0 ;
     width: 100% ;
     text-align: center ;
+}
+
+.personalInfoOne {
+    font-family: 'Times New Roman', Times, serif ;
+    margin-left: 10px ;
+}
+
+.personalInfoTwo {
+    font-family: 'Times New Roman', Times, serif ;
+    margin-left: 10px ;
+}
+
+.personalInfoThree {
+    font-family: 'Times New Roman', Times, serif ;
+    margin-left: 10px ;
+}
+
+.personalInfoFour {
+    font-family: 'Times New Roman', Times, serif ;
+    margin-left: 10px ;
+}
+
+.card {
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+.accordion-item {
+    font-family: 'Times New Roman', Times, serif ;
 }
